@@ -1,4 +1,4 @@
-# trojan-r
+# Trojan-R
 trojan-r(bin) for aarch64
 
 # test result(theoretical）
