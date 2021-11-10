@@ -8,4 +8,5 @@ trojan-r(bin) for aarch64
 
 # env
 Trojan-R server(docker) from lan 192.168.1.X
+
 R2s Trojan-R Client(overclock 1.6G)
