@@ -1,5 +1,5 @@
 # Trojan-R
-trojan-r(bin) for aarch64
+trojan-r(bin) for aarch64 & x64
 
 # test result(theoretical）
 92-101mb/s 
